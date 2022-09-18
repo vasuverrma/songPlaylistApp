@@ -2,6 +2,8 @@
 My first Django Project 
 
 To Run this Application:
--> First go to the Directory where the project is located.
+-> Save the Project to a particular directory.
+-> open terminal
+-> Go to the Directory
 -> Then simply Run "Python manage.py runserver"
 -> :)
